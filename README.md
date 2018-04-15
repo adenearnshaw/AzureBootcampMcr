@@ -35,6 +35,6 @@ Make sure to have your account up and ready before the bootcamp.
 ## Speakers
 * Rik Garner (Organiser) - [Twitter](https://twitter.com/RikGarner)
 * Luce Carter, BBC - [Twitter](https://twitter.com/LuceCarter1)
-* Martin Boam - [Twitter](https://twitter.com/martinboam)
+* Martin Boam,  Azure MVP - [Twitter](https://twitter.com/martinboam)
 * Jim Bennett, Microsoft - [Twitter](https://twitter.com/jimbobbennett)
 * Aden Earnshaw, WeBuyAnyCar - [Twitter](https://twitter.com/AdenEarnshaw)
