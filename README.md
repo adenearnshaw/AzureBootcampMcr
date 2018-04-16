@@ -16,7 +16,7 @@ Welcome & Intro to Azure | Here we'll set out the day's agenda and give you a qu
 Azure Web Apps | How to build, deploy and host websites using Azure and VSTS.
 Functions | Get an introduction into Serverless Compute and the many ways Azure can help.
 AI & Cognitive Services | Learn how to leverage Azure's Cognitive Services to make your apps smarter
-Empowering your data | Get the most out of your data by leveraging Application Insights and Logic Apps
+DocumentDB | Discover Azure's nosql data options
 
 
 ## What you will need before the bootcamp?
