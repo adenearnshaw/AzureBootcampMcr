@@ -1,0 +1,12 @@
+{
+  "ProductID": 68,
+  "ProductName": "Scottish Longbreads",
+  "SupplierID": 8,
+  "CategoryID": 3,
+  "QuantityPerUnit": "10 boxes x 8 pieces",
+  "UnitPrice": 12.5,
+  "UnitsInStock": 6,
+  "UnitsOnOrder": 10,
+  "ReorderLevel": 15,
+  "Discontinued": false
+}

@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANTON",
+  "CompanyName": "Antonio Moreno Taquería",
+  "Customer": {
+    "CustomerID": "ANTON",
+    "CompanyName": "Antonio Moreno Taquería",
+    "ContactName": "Antonio Moreno",
+    "ContactTitle": "Owner",
+    "Address": "Mataderos  2312",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05023",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": null,
+    "Orders": {
+      "OrderID": 10535,
+      "CustomerID": "ANTON",
+      "EmployeeID": 4,
+      "OrderDate": "1997-05-13T00:00:00",
+      "RequiredDate": "1997-06-10T00:00:00",
+      "ShippedDate": "1997-05-21T00:00:00",
+      "ShipVia": 1,
+      "Freight": 15.64,
+      "ShipName": "Antonio Moreno Taquería",
+      "ShipAddress": "Mataderos  2312",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05023",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10535,
+        "ProductID": 55.0,
+        "Quantity": 15,
+        "Discount": 0.1,
+        "Product": {
+          "ProductID": 59,
+          "ProductName": "Raclette Courdavault",
+          "SupplierID": 28,
+          "CategoryID": 4,
+          "QuantityPerUnit": "5 kg pkg.",
+          "UnitPrice": 55.0,
+          "UnitsInStock": 79,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

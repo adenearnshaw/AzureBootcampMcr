@@ -1,0 +1,12 @@
+{
+  "ProductID": 28,
+  "ProductName": "Rössle Sauerkraut",
+  "SupplierID": 12,
+  "CategoryID": 7,
+  "QuantityPerUnit": "25 - 825 g cans",
+  "UnitPrice": 45.6,
+  "UnitsInStock": 26,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": true
+}

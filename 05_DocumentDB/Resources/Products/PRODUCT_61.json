@@ -1,0 +1,12 @@
+{
+  "ProductID": 62,
+  "ProductName": "Tarte au sucre",
+  "SupplierID": 29,
+  "CategoryID": 3,
+  "QuantityPerUnit": "48 pies",
+  "UnitPrice": 49.3,
+  "UnitsInStock": 17,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

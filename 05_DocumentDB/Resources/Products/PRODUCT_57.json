@@ -1,0 +1,12 @@
+{
+  "ProductID": 58,
+  "ProductName": "Escargots de Bourgogne",
+  "SupplierID": 27,
+  "CategoryID": 8,
+  "QuantityPerUnit": "24 pieces",
+  "UnitPrice": 13.25,
+  "UnitsInStock": 62,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 20,
+  "Discontinued": false
+}

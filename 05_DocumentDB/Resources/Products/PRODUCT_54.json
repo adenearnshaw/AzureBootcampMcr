@@ -1,0 +1,12 @@
+{
+  "ProductID": 55,
+  "ProductName": "Pâté chinois",
+  "SupplierID": 25,
+  "CategoryID": 6,
+  "QuantityPerUnit": "24 boxes x 2 pies",
+  "UnitPrice": 24.0,
+  "UnitsInStock": 115,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 20,
+  "Discontinued": false
+}

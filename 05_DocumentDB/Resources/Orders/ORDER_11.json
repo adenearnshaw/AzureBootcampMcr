@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ALFKI",
+  "CompanyName": "Alfreds Futterkiste",
+  "Customer": {
+    "CustomerID": "ALFKI",
+    "CompanyName": "Alfreds Futterkiste",
+    "ContactName": "Maria Anders",
+    "ContactTitle": "Sales Representative",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "Region": null,
+    "PostalCode": "12209",
+    "Latitude": 52.54971,
+    "Longitude": 13.49041,
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545",
+    "Orders": {
+      "OrderID": 11011,
+      "CustomerID": "ALFKI",
+      "EmployeeID": 3,
+      "OrderDate": "1998-04-09T00:00:00",
+      "RequiredDate": "1998-05-07T00:00:00",
+      "ShippedDate": "1998-04-13T00:00:00",
+      "ShipVia": 1,
+      "Freight": 1.21,
+      "ShipName": "Alfred's Futterkiste",
+      "ShipAddress": "Obere Str. 57",
+      "ShipCity": "Berlin",
+      "ShipRegion": null,
+      "ShipPostalCode": "12209",
+      "ShipCountry": "Germany",
+      "Details": {
+        "OrderID": 11011,
+        "ProductID": 21.5,
+        "Quantity": 20,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 71,
+          "ProductName": "Flotemysost",
+          "SupplierID": 15,
+          "CategoryID": 4,
+          "QuantityPerUnit": "10 - 500 g pkgs.",
+          "UnitPrice": 21.5,
+          "UnitsInStock": 26,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

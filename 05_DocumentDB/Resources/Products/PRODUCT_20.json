@@ -1,0 +1,12 @@
+{
+  "ProductID": 21,
+  "ProductName": "Sir Rodney's Scones",
+  "SupplierID": 8,
+  "CategoryID": 3,
+  "QuantityPerUnit": "24 pkgs. x 4 pieces",
+  "UnitPrice": 10.0,
+  "UnitsInStock": 3,
+  "UnitsOnOrder": 40,
+  "ReorderLevel": 5,
+  "Discontinued": false
+}

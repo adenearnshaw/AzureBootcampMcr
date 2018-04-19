@@ -1,0 +1,12 @@
+{
+  "ProductID": 50,
+  "ProductName": "Valkoinen suklaa",
+  "SupplierID": 23,
+  "CategoryID": 3,
+  "QuantityPerUnit": "12 - 100 g bars",
+  "UnitPrice": 16.25,
+  "UnitsInStock": 65,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 30,
+  "Discontinued": false
+}

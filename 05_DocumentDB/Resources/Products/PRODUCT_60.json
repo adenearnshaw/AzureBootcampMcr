@@ -1,0 +1,12 @@
+{
+  "ProductID": 61,
+  "ProductName": "Sirop d'érable",
+  "SupplierID": 29,
+  "CategoryID": 2,
+  "QuantityPerUnit": "24 - 500 ml bottles",
+  "UnitPrice": 28.5,
+  "UnitsInStock": 113,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 25,
+  "Discontinued": false
+}

@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10524,
+      "CustomerID": "BERGS",
+      "EmployeeID": 1,
+      "OrderDate": "1997-05-01T00:00:00",
+      "RequiredDate": "1997-05-29T00:00:00",
+      "ShippedDate": "1997-05-07T00:00:00",
+      "ShipVia": 2,
+      "Freight": 244.79,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10524,
+        "ProductID": 7.45,
+        "Quantity": 15,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 54,
+          "ProductName": "Tourtière",
+          "SupplierID": 25,
+          "CategoryID": 6,
+          "QuantityPerUnit": "16 pies",
+          "UnitPrice": 7.45,
+          "UnitsInStock": 21,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 10,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

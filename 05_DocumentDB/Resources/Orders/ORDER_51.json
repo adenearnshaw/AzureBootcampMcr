@@ -1,0 +1,53 @@
+{
+  "CustomerID": "AROUT",
+  "CompanyName": "Around the Horn",
+  "Customer": {
+    "CustomerID": "AROUT",
+    "CompanyName": "Around the Horn",
+    "ContactName": "Thomas Hardy",
+    "ContactTitle": "Sales Representative",
+    "Address": "120 Hanover Sq.",
+    "City": "London",
+    "Region": null,
+    "PostalCode": "WA1 1DP",
+    "Latitude": 53.395296,
+    "Longitude": -2.555589,
+    "Country": "UK",
+    "Phone": "(171) 555-7788",
+    "Fax": "(171) 555-6750",
+    "Orders": {
+      "OrderID": 10707,
+      "CustomerID": "AROUT",
+      "EmployeeID": 4,
+      "OrderDate": "1997-10-16T00:00:00",
+      "RequiredDate": "1997-10-30T00:00:00",
+      "ShippedDate": "1997-10-23T00:00:00",
+      "ShipVia": 3,
+      "Freight": 21.74,
+      "ShipName": "Around the Horn",
+      "ShipAddress": "Brook Farm Stratford St. Mary",
+      "ShipCity": "Colchester",
+      "ShipRegion": "Essex",
+      "ShipPostalCode": "CO7 6JX",
+      "ShipCountry": "UK",
+      "Details": {
+        "OrderID": 10707,
+        "ProductID": 24.0,
+        "Quantity": 21,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 55,
+          "ProductName": "Pâté chinois",
+          "SupplierID": 25,
+          "CategoryID": 6,
+          "QuantityPerUnit": "24 boxes x 2 pies",
+          "UnitPrice": 24.0,
+          "UnitsInStock": 115,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 20,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

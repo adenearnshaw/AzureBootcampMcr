@@ -1,0 +1,12 @@
+{
+  "ProductID": 47,
+  "ProductName": "Zaanse koeken",
+  "SupplierID": 22,
+  "CategoryID": 3,
+  "QuantityPerUnit": "10 - 4 oz boxes",
+  "UnitPrice": 9.5,
+  "UnitsInStock": 36,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

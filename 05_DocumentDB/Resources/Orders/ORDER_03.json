@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ALFKI",
+  "CompanyName": "Alfreds Futterkiste",
+  "Customer": {
+    "CustomerID": "ALFKI",
+    "CompanyName": "Alfreds Futterkiste",
+    "ContactName": "Maria Anders",
+    "ContactTitle": "Sales Representative",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "Region": null,
+    "PostalCode": "12209",
+    "Latitude": 52.54971,
+    "Longitude": 13.49041,
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545",
+    "Orders": {
+      "OrderID": 10692,
+      "CustomerID": "ALFKI",
+      "EmployeeID": 4,
+      "OrderDate": "1997-10-03T00:00:00",
+      "RequiredDate": "1997-10-31T00:00:00",
+      "ShippedDate": "1997-10-13T00:00:00",
+      "ShipVia": 2,
+      "Freight": 61.02,
+      "ShipName": "Alfred's Futterkiste",
+      "ShipAddress": "Obere Str. 57",
+      "ShipCity": "Berlin",
+      "ShipRegion": null,
+      "ShipPostalCode": "12209",
+      "ShipCountry": "Germany",
+      "Details": {
+        "OrderID": 10692,
+        "ProductID": 43.9,
+        "Quantity": 20,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 63,
+          "ProductName": "Vegie-spread",
+          "SupplierID": 7,
+          "CategoryID": 2,
+          "QuantityPerUnit": "15 - 625 g jars",
+          "UnitPrice": 43.9,
+          "UnitsInStock": 24,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 5,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

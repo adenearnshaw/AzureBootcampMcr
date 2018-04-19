@@ -1,0 +1,12 @@
+{
+  "ProductID": 18,
+  "ProductName": "Carnarvon Tigers",
+  "SupplierID": 7,
+  "CategoryID": 8,
+  "QuantityPerUnit": "16 kg pkg.",
+  "UnitPrice": 62.5,
+  "UnitsInStock": 42,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

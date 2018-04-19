@@ -1,0 +1,12 @@
+{
+  "ProductID": 46,
+  "ProductName": "Spegesild",
+  "SupplierID": 21,
+  "CategoryID": 8,
+  "QuantityPerUnit": "4 - 450 g glasses",
+  "UnitPrice": 12.0,
+  "UnitsInStock": 95,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

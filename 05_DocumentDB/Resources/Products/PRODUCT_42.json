@@ -1,0 +1,12 @@
+{
+  "ProductID": 43,
+  "ProductName": "Ipoh Coffee",
+  "SupplierID": 20,
+  "CategoryID": 1,
+  "QuantityPerUnit": "16 - 500 g tins",
+  "UnitPrice": 46.0,
+  "UnitsInStock": 17,
+  "UnitsOnOrder": 10,
+  "ReorderLevel": 25,
+  "Discontinued": false
+}

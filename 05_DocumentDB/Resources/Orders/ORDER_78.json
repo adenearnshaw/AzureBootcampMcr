@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10444,
+      "CustomerID": "BERGS",
+      "EmployeeID": 3,
+      "OrderDate": "1997-02-12T00:00:00",
+      "RequiredDate": "1997-03-12T00:00:00",
+      "ShippedDate": "1997-02-21T00:00:00",
+      "ShipVia": 3,
+      "Freight": 3.5,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10444,
+        "ProductID": 31.2,
+        "Quantity": 10,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 17,
+          "ProductName": "Alice Mutton",
+          "SupplierID": 7,
+          "CategoryID": 6,
+          "QuantityPerUnit": "20 - 1 kg tins",
+          "UnitPrice": 39.0,
+          "UnitsInStock": 0,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": true
+        }
+      }
+    }
+  }
+}

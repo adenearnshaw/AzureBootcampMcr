@@ -1,0 +1,12 @@
+{
+  "ProductID": 66,
+  "ProductName": "Louisiana Hot Spiced Okra",
+  "SupplierID": 2,
+  "CategoryID": 2,
+  "QuantityPerUnit": "24 - 8 oz jars",
+  "UnitPrice": 17.0,
+  "UnitsInStock": 4,
+  "UnitsOnOrder": 100,
+  "ReorderLevel": 20,
+  "Discontinued": false
+}

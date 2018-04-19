@@ -1,0 +1,12 @@
+{
+  "ProductID": 53,
+  "ProductName": "Perth Pasties",
+  "SupplierID": 24,
+  "CategoryID": 6,
+  "QuantityPerUnit": "48 pieces",
+  "UnitPrice": 32.8,
+  "UnitsInStock": 0,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": true
+}

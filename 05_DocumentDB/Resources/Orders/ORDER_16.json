@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANATR",
+  "CompanyName": "Ana Trujillo Emparedados y helados",
+  "Customer": {
+    "CustomerID": "ANATR",
+    "CompanyName": "Ana Trujillo Emparedados y helados",
+    "ContactName": "Ana Trujillo",
+    "ContactTitle": "Owner",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05021",
+    "Latitude": 19.4023499,
+    "Longitude": -99.18179,
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745",
+    "Orders": {
+      "OrderID": 10625,
+      "CustomerID": "ANATR",
+      "EmployeeID": 3,
+      "OrderDate": "1997-08-08T00:00:00",
+      "RequiredDate": "1997-09-05T00:00:00",
+      "ShippedDate": "1997-08-14T00:00:00",
+      "ShipVia": 1,
+      "Freight": 43.9,
+      "ShipName": "Ana Trujillo Emparedados y helados",
+      "ShipAddress": "Avda. de la Constitución 2222",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05021",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10625,
+        "ProductID": 34.0,
+        "Quantity": 10,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 60,
+          "ProductName": "Camembert Pierrot",
+          "SupplierID": 28,
+          "CategoryID": 4,
+          "QuantityPerUnit": "15 - 300 g rounds",
+          "UnitPrice": 34.0,
+          "UnitsInStock": 19,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

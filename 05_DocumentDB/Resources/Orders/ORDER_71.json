@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10278,
+      "CustomerID": "BERGS",
+      "EmployeeID": 8,
+      "OrderDate": "1996-08-12T00:00:00",
+      "RequiredDate": "1996-09-09T00:00:00",
+      "ShippedDate": "1996-08-16T00:00:00",
+      "ShipVia": 2,
+      "Freight": 92.69,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10278,
+        "ProductID": 35.1,
+        "Quantity": 8,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 63,
+          "ProductName": "Vegie-spread",
+          "SupplierID": 7,
+          "CategoryID": 2,
+          "QuantityPerUnit": "15 - 625 g jars",
+          "UnitPrice": 43.9,
+          "UnitsInStock": 24,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 5,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

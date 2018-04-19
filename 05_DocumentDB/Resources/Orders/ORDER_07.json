@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ALFKI",
+  "CompanyName": "Alfreds Futterkiste",
+  "Customer": {
+    "CustomerID": "ALFKI",
+    "CompanyName": "Alfreds Futterkiste",
+    "ContactName": "Maria Anders",
+    "ContactTitle": "Sales Representative",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "Region": null,
+    "PostalCode": "12209",
+    "Latitude": 52.54971,
+    "Longitude": 13.49041,
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545",
+    "Orders": {
+      "OrderID": 10835,
+      "CustomerID": "ALFKI",
+      "EmployeeID": 1,
+      "OrderDate": "1998-01-15T00:00:00",
+      "RequiredDate": "1998-02-12T00:00:00",
+      "ShippedDate": "1998-01-21T00:00:00",
+      "ShipVia": 3,
+      "Freight": 69.53,
+      "ShipName": "Alfred's Futterkiste",
+      "ShipAddress": "Obere Str. 57",
+      "ShipCity": "Berlin",
+      "ShipRegion": null,
+      "ShipPostalCode": "12209",
+      "ShipCountry": "Germany",
+      "Details": {
+        "OrderID": 10835,
+        "ProductID": 13.0,
+        "Quantity": 2,
+        "Discount": 0.2,
+        "Product": {
+          "ProductID": 77,
+          "ProductName": "Original Frankfurter grüne Soße",
+          "SupplierID": 12,
+          "CategoryID": 2,
+          "QuantityPerUnit": "12 boxes",
+          "UnitPrice": 13.0,
+          "UnitsInStock": 32,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 15,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

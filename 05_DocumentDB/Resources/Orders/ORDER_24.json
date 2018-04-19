@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANTON",
+  "CompanyName": "Antonio Moreno Taquería",
+  "Customer": {
+    "CustomerID": "ANTON",
+    "CompanyName": "Antonio Moreno Taquería",
+    "ContactName": "Antonio Moreno",
+    "ContactTitle": "Owner",
+    "Address": "Mataderos  2312",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05023",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": null,
+    "Orders": {
+      "OrderID": 10507,
+      "CustomerID": "ANTON",
+      "EmployeeID": 7,
+      "OrderDate": "1997-04-15T00:00:00",
+      "RequiredDate": "1997-05-13T00:00:00",
+      "ShippedDate": "1997-04-22T00:00:00",
+      "ShipVia": 1,
+      "Freight": 47.45,
+      "ShipName": "Antonio Moreno Taquería",
+      "ShipAddress": "Mataderos  2312",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05023",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10507,
+        "ProductID": 12.75,
+        "Quantity": 15,
+        "Discount": 0.15,
+        "Product": {
+          "ProductID": 48,
+          "ProductName": "Chocolade",
+          "SupplierID": 22,
+          "CategoryID": 3,
+          "QuantityPerUnit": "10 pkgs.",
+          "UnitPrice": 12.75,
+          "UnitsInStock": 15,
+          "UnitsOnOrder": 70,
+          "ReorderLevel": 25,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10654,
+      "CustomerID": "BERGS",
+      "EmployeeID": 5,
+      "OrderDate": "1997-09-02T00:00:00",
+      "RequiredDate": "1997-09-30T00:00:00",
+      "ShippedDate": "1997-09-11T00:00:00",
+      "ShipVia": 1,
+      "Freight": 55.26,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10654,
+        "ProductID": 18.0,
+        "Quantity": 20,
+        "Discount": 0.1,
+        "Product": {
+          "ProductID": 39,
+          "ProductName": "Chartreuse verte",
+          "SupplierID": 18,
+          "CategoryID": 1,
+          "QuantityPerUnit": "750 cc per bottle",
+          "UnitPrice": 18.0,
+          "UnitsInStock": 69,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 5,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

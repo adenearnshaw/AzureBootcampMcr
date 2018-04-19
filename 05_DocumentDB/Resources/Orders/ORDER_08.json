@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ALFKI",
+  "CompanyName": "Alfreds Futterkiste",
+  "Customer": {
+    "CustomerID": "ALFKI",
+    "CompanyName": "Alfreds Futterkiste",
+    "ContactName": "Maria Anders",
+    "ContactTitle": "Sales Representative",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "Region": null,
+    "PostalCode": "12209",
+    "Latitude": 52.54971,
+    "Longitude": 13.49041,
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545",
+    "Orders": {
+      "OrderID": 10952,
+      "CustomerID": "ALFKI",
+      "EmployeeID": 1,
+      "OrderDate": "1998-03-16T00:00:00",
+      "RequiredDate": "1998-04-27T00:00:00",
+      "ShippedDate": "1998-03-24T00:00:00",
+      "ShipVia": 1,
+      "Freight": 40.42,
+      "ShipName": "Alfred's Futterkiste",
+      "ShipAddress": "Obere Str. 57",
+      "ShipCity": "Berlin",
+      "ShipRegion": null,
+      "ShipPostalCode": "12209",
+      "ShipCountry": "Germany",
+      "Details": {
+        "OrderID": 10952,
+        "ProductID": 25.0,
+        "Quantity": 16,
+        "Discount": 0.05,
+        "Product": {
+          "ProductID": 6,
+          "ProductName": "Grandma's Boysenberry Spread",
+          "SupplierID": 3,
+          "CategoryID": 2,
+          "QuantityPerUnit": "12 - 8 oz jars",
+          "UnitPrice": 25.0,
+          "UnitsInStock": 120,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 25,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

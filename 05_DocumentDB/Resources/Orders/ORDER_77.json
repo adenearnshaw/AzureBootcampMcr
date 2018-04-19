@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10384,
+      "CustomerID": "BERGS",
+      "EmployeeID": 3,
+      "OrderDate": "1996-12-16T00:00:00",
+      "RequiredDate": "1997-01-13T00:00:00",
+      "ShippedDate": "1996-12-20T00:00:00",
+      "ShipVia": 3,
+      "Freight": 168.64,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10384,
+        "ProductID": 27.2,
+        "Quantity": 15,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 60,
+          "ProductName": "Camembert Pierrot",
+          "SupplierID": 28,
+          "CategoryID": 4,
+          "QuantityPerUnit": "15 - 300 g rounds",
+          "UnitPrice": 34.0,
+          "UnitsInStock": 19,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

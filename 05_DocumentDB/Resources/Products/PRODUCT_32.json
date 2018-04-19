@@ -1,0 +1,12 @@
+{
+  "ProductID": 33,
+  "ProductName": "Geitost",
+  "SupplierID": 15,
+  "CategoryID": 4,
+  "QuantityPerUnit": "500 g",
+  "UnitPrice": 2.5,
+  "UnitsInStock": 112,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 20,
+  "Discontinued": false
+}

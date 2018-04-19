@@ -1,0 +1,12 @@
+{
+  "ProductID": 51,
+  "ProductName": "Manjimup Dried Apples",
+  "SupplierID": 24,
+  "CategoryID": 7,
+  "QuantityPerUnit": "50 - 300 g pkgs.",
+  "UnitPrice": 53.0,
+  "UnitsInStock": 20,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 10,
+  "Discontinued": false
+}

@@ -1,0 +1,12 @@
+{
+  "ProductID": 76,
+  "ProductName": "Lakkalikööri",
+  "SupplierID": 23,
+  "CategoryID": 1,
+  "QuantityPerUnit": "500 ml",
+  "UnitPrice": 18.0,
+  "UnitsInStock": 57,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 20,
+  "Discontinued": false
+}

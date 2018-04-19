@@ -1,0 +1,12 @@
+{
+  "ProductID": 19,
+  "ProductName": "Teatime Chocolate Biscuits",
+  "SupplierID": 8,
+  "CategoryID": 3,
+  "QuantityPerUnit": "10 boxes x 12 pieces",
+  "UnitPrice": 9.2,
+  "UnitsInStock": 25,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 5,
+  "Discontinued": false
+}

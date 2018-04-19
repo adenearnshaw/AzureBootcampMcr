@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ALFKI",
+  "CompanyName": "Alfreds Futterkiste",
+  "Customer": {
+    "CustomerID": "ALFKI",
+    "CompanyName": "Alfreds Futterkiste",
+    "ContactName": "Maria Anders",
+    "ContactTitle": "Sales Representative",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "Region": null,
+    "PostalCode": "12209",
+    "Latitude": 52.54971,
+    "Longitude": 13.49041,
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545",
+    "Orders": {
+      "OrderID": 10702,
+      "CustomerID": "ALFKI",
+      "EmployeeID": 4,
+      "OrderDate": "1997-10-13T00:00:00",
+      "RequiredDate": "1997-11-24T00:00:00",
+      "ShippedDate": "1997-10-21T00:00:00",
+      "ShipVia": 1,
+      "Freight": 23.94,
+      "ShipName": "Alfred's Futterkiste",
+      "ShipAddress": "Obere Str. 57",
+      "ShipCity": "Berlin",
+      "ShipRegion": null,
+      "ShipPostalCode": "12209",
+      "ShipCountry": "Germany",
+      "Details": {
+        "OrderID": 10702,
+        "ProductID": 10.0,
+        "Quantity": 6,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 3,
+          "ProductName": "Aniseed Syrup",
+          "SupplierID": 1,
+          "CategoryID": 2,
+          "QuantityPerUnit": "12 - 550 ml bottles",
+          "UnitPrice": 10.0,
+          "UnitsInStock": 13,
+          "UnitsOnOrder": 70,
+          "ReorderLevel": 25,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

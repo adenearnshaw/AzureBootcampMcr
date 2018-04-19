@@ -1,0 +1,53 @@
+{
+  "CustomerID": "BERGS",
+  "CompanyName": "Berglunds snabbköp",
+  "Customer": {
+    "CustomerID": "BERGS",
+    "CompanyName": "Berglunds snabbköp",
+    "ContactName": "Christina Berglund",
+    "ContactTitle": "Order Administrator",
+    "Address": "Berguvsvägen  8",
+    "City": "Luleå",
+    "Region": null,
+    "PostalCode": "S-958 22",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Sweden",
+    "Phone": "0921-12 34 65",
+    "Fax": "0921-12 34 67",
+    "Orders": {
+      "OrderID": 10626,
+      "CustomerID": "BERGS",
+      "EmployeeID": 1,
+      "OrderDate": "1997-08-11T00:00:00",
+      "RequiredDate": "1997-09-08T00:00:00",
+      "ShippedDate": "1997-08-20T00:00:00",
+      "ShipVia": 2,
+      "Freight": 138.69,
+      "ShipName": "Berglunds snabbköp",
+      "ShipAddress": "Berguvsvägen  8",
+      "ShipCity": "Luleå",
+      "ShipRegion": null,
+      "ShipPostalCode": "S-958 22",
+      "ShipCountry": "Sweden",
+      "Details": {
+        "OrderID": 10626,
+        "ProductID": 32.8,
+        "Quantity": 12,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 53,
+          "ProductName": "Perth Pasties",
+          "SupplierID": 24,
+          "CategoryID": 6,
+          "QuantityPerUnit": "48 pieces",
+          "UnitPrice": 32.8,
+          "UnitsInStock": 0,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": true
+        }
+      }
+    }
+  }
+}

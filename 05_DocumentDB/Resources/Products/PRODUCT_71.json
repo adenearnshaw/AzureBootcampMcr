@@ -1,0 +1,12 @@
+{
+  "ProductID": 72,
+  "ProductName": "Mozzarella di Giovanni",
+  "SupplierID": 14,
+  "CategoryID": 4,
+  "QuantityPerUnit": "24 - 200 g pkgs.",
+  "UnitPrice": 34.8,
+  "UnitsInStock": 14,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

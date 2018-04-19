@@ -1,0 +1,12 @@
+{
+  "ProductID": 73,
+  "ProductName": "Röd Kaviar",
+  "SupplierID": 17,
+  "CategoryID": 8,
+  "QuantityPerUnit": "24 - 150 g jars",
+  "UnitPrice": 15.0,
+  "UnitsInStock": 101,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 5,
+  "Discontinued": false
+}

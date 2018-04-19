@@ -1,0 +1,12 @@
+{
+  "ProductID": 23,
+  "ProductName": "Tunnbröd",
+  "SupplierID": 9,
+  "CategoryID": 5,
+  "QuantityPerUnit": "12 - 250 g pkgs.",
+  "UnitPrice": 9.0,
+  "UnitsInStock": 61,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 25,
+  "Discontinued": false
+}

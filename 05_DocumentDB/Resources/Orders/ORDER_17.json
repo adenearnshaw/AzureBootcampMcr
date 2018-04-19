@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANATR",
+  "CompanyName": "Ana Trujillo Emparedados y helados",
+  "Customer": {
+    "CustomerID": "ANATR",
+    "CompanyName": "Ana Trujillo Emparedados y helados",
+    "ContactName": "Ana Trujillo",
+    "ContactTitle": "Owner",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05021",
+    "Latitude": 19.4023499,
+    "Longitude": -99.18179,
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745",
+    "Orders": {
+      "OrderID": 10759,
+      "CustomerID": "ANATR",
+      "EmployeeID": 3,
+      "OrderDate": "1997-11-28T00:00:00",
+      "RequiredDate": "1997-12-26T00:00:00",
+      "ShippedDate": "1997-12-12T00:00:00",
+      "ShipVia": 3,
+      "Freight": 11.99,
+      "ShipName": "Ana Trujillo Emparedados y helados",
+      "ShipAddress": "Avda. de la Constitución 2222",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05021",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10759,
+        "ProductID": 32.0,
+        "Quantity": 10,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 32,
+          "ProductName": "Mascarpone Fabioli",
+          "SupplierID": 14,
+          "CategoryID": 4,
+          "QuantityPerUnit": "24 - 200 g pkgs.",
+          "UnitPrice": 32.0,
+          "UnitsInStock": 9,
+          "UnitsOnOrder": 40,
+          "ReorderLevel": 25,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

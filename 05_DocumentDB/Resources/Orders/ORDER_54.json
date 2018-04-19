@@ -1,0 +1,53 @@
+{
+  "CustomerID": "AROUT",
+  "CompanyName": "Around the Horn",
+  "Customer": {
+    "CustomerID": "AROUT",
+    "CompanyName": "Around the Horn",
+    "ContactName": "Thomas Hardy",
+    "ContactTitle": "Sales Representative",
+    "Address": "120 Hanover Sq.",
+    "City": "London",
+    "Region": null,
+    "PostalCode": "WA1 1DP",
+    "Latitude": 53.395296,
+    "Longitude": -2.555589,
+    "Country": "UK",
+    "Phone": "(171) 555-7788",
+    "Fax": "(171) 555-6750",
+    "Orders": {
+      "OrderID": 10741,
+      "CustomerID": "AROUT",
+      "EmployeeID": 4,
+      "OrderDate": "1997-11-14T00:00:00",
+      "RequiredDate": "1997-11-28T00:00:00",
+      "ShippedDate": "1997-11-18T00:00:00",
+      "ShipVia": 3,
+      "Freight": 10.96,
+      "ShipName": "Around the Horn",
+      "ShipAddress": "Brook Farm Stratford St. Mary",
+      "ShipCity": "Colchester",
+      "ShipRegion": "Essex",
+      "ShipPostalCode": "CO7 6JX",
+      "ShipCountry": "UK",
+      "Details": {
+        "OrderID": 10741,
+        "ProductID": 19.0,
+        "Quantity": 15,
+        "Discount": 0.2,
+        "Product": {
+          "ProductID": 2,
+          "ProductName": "Chang",
+          "SupplierID": 1,
+          "CategoryID": 1,
+          "QuantityPerUnit": "24 - 12 oz bottles",
+          "UnitPrice": 19.0,
+          "UnitsInStock": 17,
+          "UnitsOnOrder": 40,
+          "ReorderLevel": 25,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

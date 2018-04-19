@@ -1,0 +1,12 @@
+{
+  "ProductID": 54,
+  "ProductName": "Tourtière",
+  "SupplierID": 25,
+  "CategoryID": 6,
+  "QuantityPerUnit": "16 pies",
+  "UnitPrice": 7.45,
+  "UnitsInStock": 21,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 10,
+  "Discontinued": false
+}

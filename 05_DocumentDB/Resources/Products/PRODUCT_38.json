@@ -1,0 +1,12 @@
+{
+  "ProductID": 39,
+  "ProductName": "Chartreuse verte",
+  "SupplierID": 18,
+  "CategoryID": 1,
+  "QuantityPerUnit": "750 cc per bottle",
+  "UnitPrice": 18.0,
+  "UnitsInStock": 69,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 5,
+  "Discontinued": false
+}

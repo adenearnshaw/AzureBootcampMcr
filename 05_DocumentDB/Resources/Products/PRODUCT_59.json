@@ -1,0 +1,12 @@
+{
+  "ProductID": 60,
+  "ProductName": "Camembert Pierrot",
+  "SupplierID": 28,
+  "CategoryID": 4,
+  "QuantityPerUnit": "15 - 300 g rounds",
+  "UnitPrice": 34.0,
+  "UnitsInStock": 19,
+  "UnitsOnOrder": 0,
+  "ReorderLevel": 0,
+  "Discontinued": false
+}

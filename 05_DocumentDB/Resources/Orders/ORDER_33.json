@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANTON",
+  "CompanyName": "Antonio Moreno Taquería",
+  "Customer": {
+    "CustomerID": "ANTON",
+    "CompanyName": "Antonio Moreno Taquería",
+    "ContactName": "Antonio Moreno",
+    "ContactTitle": "Owner",
+    "Address": "Mataderos  2312",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05023",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": null,
+    "Orders": {
+      "OrderID": 10677,
+      "CustomerID": "ANTON",
+      "EmployeeID": 1,
+      "OrderDate": "1997-09-22T00:00:00",
+      "RequiredDate": "1997-10-20T00:00:00",
+      "ShippedDate": "1997-09-26T00:00:00",
+      "ShipVia": 3,
+      "Freight": 4.03,
+      "ShipName": "Antonio Moreno Taquería",
+      "ShipAddress": "Mataderos  2312",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05023",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10677,
+        "ProductID": 2.5,
+        "Quantity": 8,
+        "Discount": 0.15,
+        "Product": {
+          "ProductID": 33,
+          "ProductName": "Geitost",
+          "SupplierID": 15,
+          "CategoryID": 4,
+          "QuantityPerUnit": "500 g",
+          "UnitPrice": 2.5,
+          "UnitsInStock": 112,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 20,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

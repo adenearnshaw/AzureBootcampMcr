@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANTON",
+  "CompanyName": "Antonio Moreno Taquería",
+  "Customer": {
+    "CustomerID": "ANTON",
+    "CompanyName": "Antonio Moreno Taquería",
+    "ContactName": "Antonio Moreno",
+    "ContactTitle": "Owner",
+    "Address": "Mataderos  2312",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05023",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": null,
+    "Orders": {
+      "OrderID": 10856,
+      "CustomerID": "ANTON",
+      "EmployeeID": 3,
+      "OrderDate": "1998-01-28T00:00:00",
+      "RequiredDate": "1998-02-25T00:00:00",
+      "ShippedDate": "1998-02-10T00:00:00",
+      "ShipVia": 2,
+      "Freight": 58.43,
+      "ShipName": "Antonio Moreno Taquería",
+      "ShipAddress": "Mataderos  2312",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05023",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10856,
+        "ProductID": 14.0,
+        "Quantity": 20,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 42,
+          "ProductName": "Singaporean Hokkien Fried Mee",
+          "SupplierID": 20,
+          "CategoryID": 5,
+          "QuantityPerUnit": "32 - 1 kg pkgs.",
+          "UnitPrice": 14.0,
+          "UnitsInStock": 26,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": true
+        }
+      }
+    }
+  }
+}

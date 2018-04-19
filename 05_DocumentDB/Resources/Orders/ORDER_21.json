@@ -1,0 +1,53 @@
+{
+  "CustomerID": "ANATR",
+  "CompanyName": "Ana Trujillo Emparedados y helados",
+  "Customer": {
+    "CustomerID": "ANATR",
+    "CompanyName": "Ana Trujillo Emparedados y helados",
+    "ContactName": "Ana Trujillo",
+    "ContactTitle": "Owner",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05021",
+    "Latitude": 19.4023499,
+    "Longitude": -99.18179,
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745",
+    "Orders": {
+      "OrderID": 10926,
+      "CustomerID": "ANATR",
+      "EmployeeID": 4,
+      "OrderDate": "1998-03-04T00:00:00",
+      "RequiredDate": "1998-04-01T00:00:00",
+      "ShippedDate": "1998-03-11T00:00:00",
+      "ShipVia": 3,
+      "Freight": 39.92,
+      "ShipName": "Ana Trujillo Emparedados y helados",
+      "ShipAddress": "Avda. de la Constitución 2222",
+      "ShipCity": "México D.F.",
+      "ShipRegion": null,
+      "ShipPostalCode": "05021",
+      "ShipCountry": "Mexico",
+      "Details": {
+        "OrderID": 10926,
+        "ProductID": 34.8,
+        "Quantity": 10,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 72,
+          "ProductName": "Mozzarella di Giovanni",
+          "SupplierID": 14,
+          "CategoryID": 4,
+          "QuantityPerUnit": "24 - 200 g pkgs.",
+          "UnitPrice": 34.8,
+          "UnitsInStock": 14,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 0,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

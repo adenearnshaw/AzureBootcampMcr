@@ -1,0 +1,53 @@
+{
+  "CustomerID": "AROUT",
+  "CompanyName": "Around the Horn",
+  "Customer": {
+    "CustomerID": "AROUT",
+    "CompanyName": "Around the Horn",
+    "ContactName": "Thomas Hardy",
+    "ContactTitle": "Sales Representative",
+    "Address": "120 Hanover Sq.",
+    "City": "London",
+    "Region": null,
+    "PostalCode": "WA1 1DP",
+    "Latitude": 53.395296,
+    "Longitude": -2.555589,
+    "Country": "UK",
+    "Phone": "(171) 555-7788",
+    "Fax": "(171) 555-6750",
+    "Orders": {
+      "OrderID": 10355,
+      "CustomerID": "AROUT",
+      "EmployeeID": 6,
+      "OrderDate": "1996-11-15T00:00:00",
+      "RequiredDate": "1996-12-13T00:00:00",
+      "ShippedDate": "1996-11-20T00:00:00",
+      "ShipVia": 1,
+      "Freight": 41.95,
+      "ShipName": "Around the Horn",
+      "ShipAddress": "Brook Farm Stratford St. Mary",
+      "ShipCity": "Colchester",
+      "ShipRegion": "Essex",
+      "ShipPostalCode": "CO7 6JX",
+      "ShipCountry": "UK",
+      "Details": {
+        "OrderID": 10355,
+        "ProductID": 15.6,
+        "Quantity": 25,
+        "Discount": 0.0,
+        "Product": {
+          "ProductID": 57,
+          "ProductName": "Ravioli Angelo",
+          "SupplierID": 26,
+          "CategoryID": 5,
+          "QuantityPerUnit": "24 - 250 g pkgs.",
+          "UnitPrice": 19.5,
+          "UnitsInStock": 36,
+          "UnitsOnOrder": 0,
+          "ReorderLevel": 20,
+          "Discontinued": false
+        }
+      }
+    }
+  }
+}

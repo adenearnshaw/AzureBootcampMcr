@@ -1,0 +1,12 @@
+{
+  "ProductID": 32,
+  "ProductName": "Mascarpone Fabioli",
+  "SupplierID": 14,
+  "CategoryID": 4,
+  "QuantityPerUnit": "24 - 200 g pkgs.",
+  "UnitPrice": 32.0,
+  "UnitsInStock": 9,
+  "UnitsOnOrder": 40,
+  "ReorderLevel": 25,
+  "Discontinued": false
+}

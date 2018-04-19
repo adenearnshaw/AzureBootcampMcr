@@ -1,0 +1,12 @@
+{
+  "ProductID": 45,
+  "ProductName": "Rogede sild",
+  "SupplierID": 21,
+  "CategoryID": 8,
+  "QuantityPerUnit": "1k pkg.",
+  "UnitPrice": 9.5,
+  "UnitsInStock": 5,
+  "UnitsOnOrder": 70,
+  "ReorderLevel": 15,
+  "Discontinued": false
+}
