@@ -1,0 +1,15 @@
+{
+  "CustomerID": "SIMOB",
+  "CompanyName": "Simons bistro",
+  "ContactName": "Jytte Petersen",
+  "ContactTitle": "Owner",
+  "Address": "Vinbæltet 34",
+  "City": "Kobenhavn",
+  "Region": null,
+  "PostalCode": "1734",
+  "Latitude": 0.0,
+  "Longitude": 0.0,
+  "Country": "Denmark",
+  "Phone": "31 12 34 56",
+  "Fax": "31 13 35 57"
+}

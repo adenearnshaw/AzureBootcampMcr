@@ -1,0 +1,15 @@
+{
+  "CustomerID": "LACOR",
+  "CompanyName": "La corne d'abondance",
+  "ContactName": "Daniel Tonini",
+  "ContactTitle": "Sales Representative",
+  "Address": "67, avenue de l'Europe",
+  "City": "Versailles",
+  "Region": null,
+  "PostalCode": "78000",
+  "Latitude": 48.8035799,
+  "Longitude": 2.1305299,
+  "Country": "France",
+  "Phone": "30.59.84.10",
+  "Fax": "30.59.85.11"
+}

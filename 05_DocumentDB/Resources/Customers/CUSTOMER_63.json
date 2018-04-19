@@ -1,0 +1,15 @@
+{
+  "CustomerID": "RANCH",
+  "CompanyName": "Rancho grande",
+  "ContactName": "Sergio Gutiérrez",
+  "ContactTitle": "Sales Representative",
+  "Address": "Av. del Libertador 900",
+  "City": "Buenos Aires",
+  "Region": null,
+  "PostalCode": "1010",
+  "Latitude": -34.5872512,
+  "Longitude": -58.3849658,
+  "Country": "Argentina",
+  "Phone": "(1) 123-5555",
+  "Fax": "(1) 123-5556"
+}

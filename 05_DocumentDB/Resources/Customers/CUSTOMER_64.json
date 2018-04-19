@@ -1,0 +1,15 @@
+{
+  "CustomerID": "RATTC",
+  "CompanyName": "Rattlesnake Canyon Grocery",
+  "ContactName": "Paula Wilson",
+  "ContactTitle": "Assistant Sales Representative",
+  "Address": "2817 Milton Dr.",
+  "City": "Albuquerque",
+  "Region": "NM",
+  "PostalCode": "87110",
+  "Latitude": 35.115428924560547,
+  "Longitude": -106.67108154296875,
+  "Country": "USA",
+  "Phone": "(505) 555-5939",
+  "Fax": "(505) 555-3620"
+}

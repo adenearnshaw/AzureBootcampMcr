@@ -1,0 +1,15 @@
+{
+  "CustomerID": "FRANS",
+  "CompanyName": "Franchi S.p.A.",
+  "ContactName": "Paolo Accorti",
+  "ContactTitle": "Sales Representative",
+  "Address": "Via Monte Bianco 34",
+  "City": "Torino",
+  "Region": null,
+  "PostalCode": "10100",
+  "Latitude": 45.075401306152344,
+  "Longitude": 7.6462001800537109,
+  "Country": "Italy",
+  "Phone": "011-4988260",
+  "Fax": "011-4988261"
+}

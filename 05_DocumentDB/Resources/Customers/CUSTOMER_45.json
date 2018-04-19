@@ -1,0 +1,15 @@
+{
+  "CustomerID": "LILAS",
+  "CompanyName": "LILA-Supermercado",
+  "ContactName": "Carlos González",
+  "ContactTitle": "Accounting Manager",
+  "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+  "City": "Barquisimeto",
+  "Region": "Lara",
+  "PostalCode": "3508",
+  "Latitude": 10.0251699,
+  "Longitude": -69.3846499,
+  "Country": "Venezuela",
+  "Phone": "(9) 331-6954",
+  "Fax": "(9) 331-7256"
+}

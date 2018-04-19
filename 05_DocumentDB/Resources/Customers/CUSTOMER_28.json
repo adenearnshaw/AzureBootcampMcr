@@ -1,0 +1,15 @@
+{
+  "CustomerID": "GALED",
+  "CompanyName": "Galería del gastrónomo",
+  "ContactName": "Eduardo Saavedra",
+  "ContactTitle": "Marketing Manager",
+  "Address": "Rambla de Cataluña, 23",
+  "City": "Barcelona",
+  "Region": null,
+  "PostalCode": "08022",
+  "Latitude": 41.3938,
+  "Longitude": 2.15958,
+  "Country": "Spain",
+  "Phone": "(93) 203 4560",
+  "Fax": "(93) 203 4561"
+}

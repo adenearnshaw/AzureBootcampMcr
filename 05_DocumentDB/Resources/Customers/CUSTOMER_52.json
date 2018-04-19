@@ -1,0 +1,15 @@
+{
+  "CustomerID": "NORTS",
+  "CompanyName": "North/South",
+  "ContactName": "Simon Crowther",
+  "ContactTitle": "Sales Associate",
+  "Address": "South House 300 Queensbridge",
+  "City": "London",
+  "Region": null,
+  "PostalCode": "SW7 1RZ",
+  "Latitude": 51.49807,
+  "Longitude": -0.17406,
+  "Country": "UK",
+  "Phone": "(171) 555-7733",
+  "Fax": "(171) 555-2530"
+}
