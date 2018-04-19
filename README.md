@@ -26,7 +26,9 @@ DocumentDB | Discover Azure's nosql data options
 Before the bootcamp, we encourage you to make sure you have all the requirement software so you can concentrate on learning and not running installations.  Make sure you get all the source code and install all the required software.
 
 ### Azure subscription
-If you don't own an Azure subscription already, you can create your free account today. It comes with 200$ credit, so you can experience almost everything without spending a dime. 
+If you don't own an Azure subscription already, you can create a free trial on the Microsft web site; the trial comes with £150 credit for 30 days, so you can experience almost everything without charge. 
+On the day of Bootcamp we will have some Azure passes to give away which are worth £75 per month for three months. These can be applied to an existing Azure account so if you can 'boost' an exisiting account or add it to a new trial account.
+
 
 Make sure to have your account up and ready before the bootcamp.
 
