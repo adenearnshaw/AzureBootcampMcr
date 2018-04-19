@@ -20,7 +20,11 @@ CosmosDB / DocumentDB | Discover Azure's nosql data options
 
 (sequence subject to change)
 
-## What you will need before the bootcamp?
+## What you will need for the bootcamp?
+
+### Your laptop
+
+Many of the sessions will be accompanied by Hands on Labs to allow you to get to grips with technology yourselves. In order to complete the labs, you'll need to bring a laptop with all the required software installed.
 
 ### Visual Studio IDE - [download](https://www.visualstudio.com/vs/)
 
