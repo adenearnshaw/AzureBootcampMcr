@@ -8,7 +8,7 @@ On **April 21, 2018**, all communities will come together once again in the sixt
 
 Here you will find all the resources you'll need in order to complete the hands-on labs that accompany each session.
 
-## Sessions
+## Sessions 
 
 Title | Description
 ------|------------
@@ -16,8 +16,9 @@ Welcome & Intro to Azure | Here we'll set out the day's agenda and give you a qu
 Azure Web Apps | How to build, deploy and host websites using Azure and VSTS.
 Functions | Get an introduction into Serverless Compute and the many ways Azure can help.
 AI & Cognitive Services | Learn how to leverage Azure's Cognitive Services to make your apps smarter
-DocumentDB | Discover Azure's nosql data options
+CosmosDB / DocumentDB | Discover Azure's nosql data options
 
+(sequence subject to change)
 
 ## What you will need before the bootcamp?
 
