@@ -1,0 +1,33 @@
+﻿@Scripts.Render("~/bundles/jqueryui")
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('#customers').autocomplete({
+            source: '@Url.Action("Suggest")',
+            autoFocus: true,
+            select: function (event, ui) {
+
+                if (ui.item) {
+                    $("#SearchQuery").val(ui.item.value);
+                    $("form").submit();
+                }
+            }
+        });
+    })
+</script>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Customer Lookup</h2>
+        <p>
+            To search documents in your Azure DocumentDB database, enter a value and select an autosuggested customer.
+        </p>
+        <div>Search for:</div>
+        <input id="customers" name="customers">
+        <form action="/" method="post">
+            <input hidden="hidden" id="SearchQuery" name="SearchQuery" type="text" />
+        </form>
+    </div>
+    <div style="height:400px" class="col-md-4"></div>
+</div>

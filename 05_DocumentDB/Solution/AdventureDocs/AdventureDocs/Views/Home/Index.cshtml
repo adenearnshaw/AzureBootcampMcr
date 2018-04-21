@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "AdventureDocs";
+}
+
+<div class="row">
+    @model AdventureDocs.Models.OrderViewModel
+    <div>
+        <h2>Document Search</h2>
+        <p>
+            To search documents in your Azure DocumentDB database, enter a value, select a DocumentDB collection, and click Search.
+        </p>
+
+        @using (Html.BeginForm("Search", "Home", FormMethod.Post))
+        {
+            <div>Search for:</div>
+            @Html.TextBoxFor(o => Model.SearchQuery)
+            <p></p>
+            <div>Select a collection:</div>
+            @Html.DropDownListFor(x => x.SelectedCollectionName, new SelectList(Model.Collections))
+            <input type="submit" value="Search">
+        }
+
+        <div>
+            <h4>@Html.DisplayFor(o => Model.SearchResultTitle)</h4>
+            <div>@Html.DisplayFor(o => Model.SearchResultDescription)</div>
+            <table style="margin:10px" border="0" cellpadding="3">
+                @foreach (var item in Model.SearchResults)
+                {
+                    <tr>
+                        <td>
+                            <strong>@Html.DisplayFor(modelItem => item.Title)</strong>
+                        </td>
+                        <td>
+                            <em>@Html.DisplayFor(modelItem => item.Description)</em>
+                        </td>
+
+                        <td>
+                            @Html.ActionLink(
+                            linkText: "[view document]",
+                            actionName: "ViewSource",
+                            controllerName: "Home",
+                            routeValues: new { content = item.DocumentContent },
+                            htmlAttributes: null)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
