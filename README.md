@@ -45,3 +45,8 @@ Make sure to have your account up and ready before the bootcamp.
 * Martin Boam,  Azure MVP - [Twitter](https://twitter.com/martinboam)
 * Jim Bennett, Microsoft - [Twitter](https://twitter.com/jimbobbennett)
 * Aden Earnshaw, WeBuyAnyCar - [Twitter](https://twitter.com/AdenEarnshaw)
+
+
+## Useful Information
+
+[Useful links](Links.md)
