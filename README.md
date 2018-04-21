@@ -8,6 +8,8 @@ On **April 21, 2018**, all communities will come together once again in the sixt
 
 Here you will find all the resources you'll need in order to complete the hands-on labs that accompany each session.
 
+Also check out the social hashtag #GlobalAzure!
+
 ## Sessions 
 
 Title | Description
