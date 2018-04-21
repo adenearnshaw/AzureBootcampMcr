@@ -4,3 +4,4 @@
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-gb/pricing/calculator/) - Use this to estimate how much your Azure Bill may be.
 
+- [TechNW Calendar](http://technw.uk/calendar)
