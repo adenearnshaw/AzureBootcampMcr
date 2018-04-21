@@ -15,6 +15,8 @@ function myButtonClicked() {
     clickCount++;
     console.log("Click count: " + clickCount);
     myButton.innerHTML = "You clicked me " + clickCount + " times!";
+    appInsights.trackEvent("User Incremented Count");
+    
 }
 
 function clearCount() {
