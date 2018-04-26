@@ -52,3 +52,17 @@ Make sure to have your account up and ready before the bootcamp.
 ## Useful Information
 
 [Useful links](Links.md)
+
+
+### Local user groups
+[DotNetNorth User Group](http://www.meetup.com/DotNetNorth)
+
+[Manchester Xamarin User Group](http://www.meetup.com/Manchester-Xamarin-User-Group)
+
+[MS Cloud Usergroup](http://www.meetup.com/mscloudug)
+
+[Manchester F# User Group](http://www.meetup.com/Manchester-F-User-Group)
+
+[Manchester SQL Server User Group](http://manssug.pass.org/)
+
+[North West Tech Community - Events calendar](http://technw.uk/calendar)
